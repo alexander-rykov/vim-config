@@ -1,1 +1,3 @@
-# vim-config
+# NeoVIM Config
+
+./AppData/Local/nvim

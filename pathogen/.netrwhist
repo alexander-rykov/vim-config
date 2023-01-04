@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='D:/Work/gitlab/epam-autocode-tasks/creating-static-methods'
-let g:netrw_dirhist_6='C:/Users/Vashanka/.vim'
-let g:netrw_dirhist_5='D:/Work/gitlab/epam-autocode-tasks/creating-methods'
-let g:netrw_dirhist_4='D:/Work/gitlab/epam-autocode-tasks'
-let g:netrw_dirhist_3='D:/Work/gitlab/epam-autocode-tasks/population/PopulationTask.Tests'
-let g:netrw_dirhist_2='/d/Work/github/grysbok/react-ant/src'
-let g:netrw_dirhist_1='/d/Work/github/epam-lab/koa-graphql-mongo-api/graphql'
